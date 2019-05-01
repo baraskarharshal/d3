@@ -6,6 +6,11 @@
 <script src="https://d3js.org/d3.v5.min.js"></script>
 <script>
 
+    /**
+    * Functionalities.
+    * add, update, delete nodes.
+    * add, update, delete wedges.
+    **/
     //d3 code goes here
     //Characters
     var nodes_data = [
